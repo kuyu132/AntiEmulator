@@ -6,7 +6,7 @@
 原始项目地址：https://github.com/strazzere/anti-emulator
 
 ### 如何使用
-阅读doc文件夹下的文件
+阅读doc文件夹下的文件  [链接](https://github.com/kuyu132/AntiEmulator/blob/master/doc/how-to-use.md)
 
 
 ## 英文
@@ -16,4 +16,4 @@ original project link：https://github.com/strazzere/anti-emulator
 
 ### how to use it
 
-read the file under doc folder
+read the file under doc folder  [link](https://github.com/kuyu132/AntiEmulator/blob/master/doc/how-to-use.md)
