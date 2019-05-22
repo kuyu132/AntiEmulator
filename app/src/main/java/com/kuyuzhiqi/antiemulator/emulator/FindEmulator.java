@@ -32,6 +32,7 @@ public class FindEmulator {
             "012345678912345"};
     private static String[] known_imsi_ids = {"310260000000000" // Default imsi id
     };
+    //https://www.jianshu.com/p/63360da2dbb4
     private static String[] known_pipes = {"/dev/socket/qemud", "/dev/qemu_pipe"};
     private static String[] known_files = {"/system/lib/libc_malloc_debug_qemu.so", "/sys/qemu_trace",
             "/system/bin/qemu-props"};
